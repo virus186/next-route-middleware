@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sam",
+        "id": "0001",
+        "address_id": "0001",
+        "role": "0001"
+    },
+    {
+        "name": "Rohan",
+        "id": "0002",
+        "address_id": "0002",
+        "role": "0001"
+    },
+    {
+        "name": "Ramesh",
+        "id": "0003",
+        "address_id": "0003",
+        "role": "0001"
+    }
+
+
+]
